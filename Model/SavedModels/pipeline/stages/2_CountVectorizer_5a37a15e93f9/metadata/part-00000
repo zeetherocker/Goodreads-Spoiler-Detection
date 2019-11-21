@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.CountVectorizerModel","timestamp":1574146747780,"sparkVersion":"2.4.4","uid":"CountVectorizer_5a37a15e93f9","paramMap":{"inputCol":"stoppedWords","outputCol":"vectors"},"defaultParamMap":{"minDF":1.0,"outputCol":"CountVectorizer_5a37a15e93f9__output","minTF":1.0,"binary":false,"vocabSize":262144,"maxDF":9.223372036854776E18}}
